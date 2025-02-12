@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactAIWritten/static/css/main.33129578.css",
+    "main.js": "/ReactAIWritten/static/js/main.3756e354.js",
+    "index.html": "/ReactAIWritten/index.html",
+    "main.33129578.css.map": "/ReactAIWritten/static/css/main.33129578.css.map",
+    "main.3756e354.js.map": "/ReactAIWritten/static/js/main.3756e354.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33129578.css",
+    "static/js/main.3756e354.js"
+  ]
+}
