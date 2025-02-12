@@ -10,7 +10,7 @@ function Footer({ items }) {
   return (
     <footer className="footer">
       <em>
-        👜 You have {totalItems} items on your list, and you already packed{" "}
+        You have {totalItems} items on your list, and you already packed{" "}
         {packedItems} (
         {(packedItems / (totalItems === 0 ? 1 : totalItems)) * 100}
         )% of them.
