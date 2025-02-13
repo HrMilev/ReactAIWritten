@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReactAIWritten/static/css/main.f14393ed.css",
+    "main.css": "/ReactAIWritten/static/css/main.2638db34.css",
     "main.js": "/ReactAIWritten/static/js/main.f28d17c7.js",
     "index.html": "/ReactAIWritten/index.html",
-    "main.f14393ed.css.map": "/ReactAIWritten/static/css/main.f14393ed.css.map",
+    "main.2638db34.css.map": "/ReactAIWritten/static/css/main.2638db34.css.map",
     "main.f28d17c7.js.map": "/ReactAIWritten/static/js/main.f28d17c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f14393ed.css",
+    "static/css/main.2638db34.css",
     "static/js/main.f28d17c7.js"
   ]
 }
